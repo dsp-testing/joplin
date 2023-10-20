@@ -16,7 +16,7 @@
   ],
   "devDependencies": {
     "standard": "^8.6.0",
-    "tap": "^10.5.1"
+    "tap": "^18.5.2"
   },
   "gitHead": "80c0089d2c52aff608b2bea74389de5a7f12f2e2"
 }
