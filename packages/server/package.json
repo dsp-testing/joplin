@@ -37,7 +37,7 @@
     "node-cron": "^3.0.0",
     "node-env-file": "^0.1.8",
     "nodemailer": "^6.6.0",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.22",
     "pg": "^8.5.1",
     "pretty-bytes": "^5.6.0",
     "query-string": "^6.8.3",
